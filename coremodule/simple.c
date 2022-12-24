@@ -3,7 +3,7 @@
 #include <linux/kernel.h>           
  
 MODULE_LICENSE("GPL");              ///< The license type -- this affects function visibility
-MODULE_AUTHOR("Maximus");      ///< The author -- visible when you use modinfo
+MODULE_AUTHOR("anapkost");      ///< The author -- visible when you use modinfo
 MODULE_DESCRIPTION("A simple Linux module");  ///< The description -- see modinfo
 MODULE_VERSION("1.0");              
 
