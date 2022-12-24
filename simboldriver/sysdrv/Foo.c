@@ -6,7 +6,7 @@
 #include <asm/uaccess.h>        
  
 MODULE_LICENSE("GPL");            
-MODULE_AUTHOR("Maximus");      
+MODULE_AUTHOR("Anapkost");      
 MODULE_DESCRIPTION("A simple Linux symbol driver");  
 MODULE_VERSION("1.0");
 
